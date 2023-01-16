@@ -23,6 +23,7 @@ body{
  /* float: right; */
 }
 .sunicon{
+  height: 5rem;
   background:linear-gradient(to right,black,gray);
   border-radius: 5rem 0 0 5rem;
 }
