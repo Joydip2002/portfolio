@@ -229,15 +229,18 @@ img {
 box-shadow: 1px -1px 28px 9px rgba(110,175,255,0.75);
 }
 .projectHeading{
+  font-weight: bolder;
   font-family:cursive;
   color: #0091ff;
   text-transform:uppercase;
 }
 .projectHeading2{
+  font-weight: bolder;
   font-family:cursive;
   color: #e918f4;
 }
 .projectHeading3{
+  font-weight: bolder;
   font-family:cursive;
   color: #eb0894;
 }
