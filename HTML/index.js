@@ -16,6 +16,7 @@ document.getElementById("about")
 const lightDark=()=>{
   bodyPart.style.background = "black";
   sunicon.style.visibility = "hidden";
+  sunicon.style.marginBottom = "-4rem";
   night.style.visibility = "visible";
   main.style.color = "white";
   main2.style.color = "white";
