@@ -71,7 +71,7 @@ p {
   height: 50rem;
 }
 #imgmy {
-  background: url(/IMAGES/graph.png);
+  background: url(../IMAGES/graph.png);
 }
 /* Color Name */
 .waviy,
